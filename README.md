@@ -3,7 +3,7 @@
 
 ### Download App
 
-<img src="https://github.com/AbhinavSharma24/PRIVATE/blob/master/solve_icon2.png" height="100" width="100">          <a href='https://play.google.com/store/apps/details?id=com.Intellify.solveapp2'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="30%"/></a>
+<img src="https://github.com/AbhinavSharma24/Solve_Internship_Report/blob/master/Solve%20Classes%20-%20ScreenShots/solve_icon2.png" height="100" width="100">          <a href='https://play.google.com/store/apps/details?id=com.Intellify.solveapp2'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="30%"/></a>
 </p>
 
 #### Play Store Link : https://play.google.com/store/apps/details?id=com.Intellify.solveapp2
