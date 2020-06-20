@@ -11,6 +11,7 @@
 We bring to you an interactive application that bridges the gap between students and teachers as it provides a platform for systematic teaching and learning. Educators can create institute profiles and classes to upload lectures, e-resources, quizzes and assignments. Students can access the learning material by joining institute profiles and classes. Parents can be notified about their ward’s attendance and test results. Doubt solving and discussion forums to make sure that the process of learning grows and evolves and so does the students’ knowledge.
 
 ##### Internship work tracker link: https://docs.google.com/spreadsheets/d/13tmtaTo-4l7sEkvSJPPDTnXkFC_LCGsZbZdT-jtKri4/edit#gid=0
+##### Final APK link: https://github.com/AbhinavSharma24/Solve_Internship_Report/blob/master/app-release_2.0.0.apk
 
 ### During my tenure at Solve, my responsibilities as an Android Developer were: 
 - Make interactive and user engaging UI screens, keeping in mind smooth user experience.
