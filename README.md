@@ -31,23 +31,23 @@ It was my pleasure to work with such a talented and hardworking team. I got chan
 
 ## App Screenshots:
 <img src="https://github.com/AbhinavSharma24/Solve_Internship_Report/blob/master/Solve%20Classes%20-%20ScreenShots/1.jpg" height="500" width="275">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     <img src="https://github.com/AbhinavSharma24/Solve_Internship_Report/blob/master/Solve%20Classes%20-%20ScreenShots/2.jpg" height="500" width="275">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     <img src="https://github.com/AbhinavSharma24/Solve_Internship_Report/blob/master/Solve%20Classes%20-%20ScreenShots/3.jpg" height="500" width="275">
-<br><hr><br>
+
 <img src="https://github.com/AbhinavSharma24/Solve_Internship_Report/blob/master/Solve%20Classes%20-%20ScreenShots/4.jpg" height="500" width="275">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     <img src="https://github.com/AbhinavSharma24/Solve_Internship_Report/blob/master/Solve%20Classes%20-%20ScreenShots/5.jpg" height="500" width="275">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     <img src="https://github.com/AbhinavSharma24/Solve_Internship_Report/blob/master/Solve%20Classes%20-%20ScreenShots/6.jpg" height="500" width="275">
-<br><hr><br>
+
 <img src="https://github.com/AbhinavSharma24/Solve_Internship_Report/blob/master/Solve%20Classes%20-%20ScreenShots/7.jpg" height="500" width="275">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     <img src="https://github.com/AbhinavSharma24/Solve_Internship_Report/blob/master/Solve%20Classes%20-%20ScreenShots/8.jpg" height="500" width="275">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     <img src="https://github.com/AbhinavSharma24/Solve_Internship_Report/blob/master/Solve%20Classes%20-%20ScreenShots/9.jpg" height="500" width="275">
-<br><hr><br>
+
 <img src="https://github.com/AbhinavSharma24/Solve_Internship_Report/blob/master/Solve%20Classes%20-%20ScreenShots/10.jpg" height="500" width="275">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     <img src="https://github.com/AbhinavSharma24/Solve_Internship_Report/blob/master/Solve%20Classes%20-%20ScreenShots/11.jpg" height="500" width="275">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     <img src="https://github.com/AbhinavSharma24/Solve_Internship_Report/blob/master/Solve%20Classes%20-%20ScreenShots/12.jpg" height="500" width="275">
-<br><hr><br>
+
 <img src="https://github.com/AbhinavSharma24/Solve_Internship_Report/blob/master/Solve%20Classes%20-%20ScreenShots/13.jpg" height="500" width="275">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     <img src="https://github.com/AbhinavSharma24/Solve_Internship_Report/blob/master/Solve%20Classes%20-%20ScreenShots/14.jpg" height="500" width="275">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     <img src="https://github.com/AbhinavSharma24/Solve_Internship_Report/blob/master/Solve%20Classes%20-%20ScreenShots/15.jpg" height="500" width="275">
-<br><hr><br>
+
 <img src="https://github.com/AbhinavSharma24/Solve_Internship_Report/blob/master/Solve%20Classes%20-%20ScreenShots/16.jpg" height="500" width="275">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     <img src="https://github.com/AbhinavSharma24/Solve_Internship_Report/blob/master/Solve%20Classes%20-%20ScreenShots/17.jpg" height="500" width="275">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     <img src="https://github.com/AbhinavSharma24/Solve_Internship_Report/blob/master/Solve%20Classes%20-%20ScreenShots/18.jpg" height="500" width="275">
-<br><hr><br>
+
 <img src="https://github.com/AbhinavSharma24/Solve_Internship_Report/blob/master/Solve%20Classes%20-%20ScreenShots/19.jpg" height="500" width="275">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     <img src="https://github.com/AbhinavSharma24/Solve_Internship_Report/blob/master/Solve%20Classes%20-%20ScreenShots/20.jpg" height="500" width="275">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     <img src="https://github.com/AbhinavSharma24/Solve_Internship_Report/blob/master/Solve%20Classes%20-%20ScreenShots/21.jpg" height="500" width="275">
-<br><hr><br>
+
 <img src="https://github.com/AbhinavSharma24/Solve_Internship_Report/blob/master/Solve%20Classes%20-%20ScreenShots/22.jpg" height="500" width="275">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     <img src="https://github.com/AbhinavSharma24/Solve_Internship_Report/blob/master/Solve%20Classes%20-%20ScreenShots/23.jpg" height="500" width="275">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     <img src="https://github.com/AbhinavSharma24/Solve_Internship_Report/blob/master/Solve%20Classes%20-%20ScreenShots/24.jpg" height="500" width="275">
-<br><hr><br>
+
 <img src="https://github.com/AbhinavSharma24/Solve_Internship_Report/blob/master/Solve%20Classes%20-%20ScreenShots/25.jpg" height="500" width="275">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     <img src="https://github.com/AbhinavSharma24/Solve_Internship_Report/blob/master/Solve%20Classes%20-%20ScreenShots/26.jpg" height="500" width="275">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     <img src="https://github.com/AbhinavSharma24/Solve_Internship_Report/blob/master/Solve%20Classes%20-%20ScreenShots/27.jpg" height="500" width="275">
-<br><hr><br>
+
 <img src="https://github.com/AbhinavSharma24/Solve_Internship_Report/blob/master/Solve%20Classes%20-%20ScreenShots/28.jpg" height="500" width="275">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     <img src="https://github.com/AbhinavSharma24/Solve_Internship_Report/blob/master/Solve%20Classes%20-%20ScreenShots/29.jpg" height="500" width="275">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     <img src="https://github.com/AbhinavSharma24/Solve_Internship_Report/blob/master/Solve%20Classes%20-%20ScreenShots/30.jpg" height="500" width="275">
-<br><hr><br>
+
 <img src="https://github.com/AbhinavSharma24/Solve_Internship_Report/blob/master/Solve%20Classes%20-%20ScreenShots/31.jpg" height="500" width="275">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     <img src="https://github.com/AbhinavSharma24/Solve_Internship_Report/blob/master/Solve%20Classes%20-%20ScreenShots/32.jpg" height="500" width="275">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     <img src="https://github.com/AbhinavSharma24/Solve_Internship_Report/blob/master/Solve%20Classes%20-%20ScreenShots/33.jpg" height="500" width="275">
